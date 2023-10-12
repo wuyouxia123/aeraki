@@ -18,7 +18,6 @@ import (
 	"flag"
 	"os"
 	"os/signal"
-	"strings"
 	"syscall"
 
 	"github.com/google/uuid"
